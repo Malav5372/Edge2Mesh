@@ -3,7 +3,7 @@
 
 ## Introduction:
 
-Welcome to Edge2Mesh, my flagship computer graphics project developed in JavaScript. Edge2Mesh is a versatile tool designed for 3D projection and visualization. It offers two primary types of projections: geometry edge projection and silhouette projection. Each projection type is equipped with a set of configurable metrics and controls, allowing you to fine-tune and optimize your 3D projections for various computer graphics tasks.
+Welcome to Edge2Mesh, my flagship computer graphics project developed in JavaScript. Edge2Mesh is a versatile tool designed for 2D projection and visualization for 3D objects. It offers two primary types of projections: geometry edge projection and silhouette projection. Each projection type is equipped with a set of configurable metrics and controls, allowing you to fine-tune and optimize your 3D projections for various computer graphics tasks.
 
 ### Type 1: Geometry Edge Projection
 
