@@ -1,14 +1,10 @@
-# three-edge-projection
+# Edge2Mesh
 
 ![](./docs/banner.png)
 
-Edge projection to extract visible projected lines along the y-axis into flattened line segments for scalable 2d rendering. Additonally includes a silhouette mesh generator b to merge flattened triangles.
+Edge projection to extract visible projected lines along the y-axis into flattened line segments for scalable 2d rendering. Additonally includes a silhouette mesh generator to merge flattened triangles.
 
-# Examples
 
-[Geometry edge projection](https://Malav5372.github.io/Edge2Mesh/example/bundle/edgeProjection.html)
-
-[Silhouette projection](https://Malav5372.github.io/Edge2Mesh/example/bundle/silhouetteProjection.html)
 
 # Use
 
