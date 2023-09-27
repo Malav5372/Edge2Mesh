@@ -6,7 +6,7 @@
 
 Welcome to Edge2Mesh, my flagship computer graphics project developed in JavaScript. Edge2Mesh is a versatile tool designed for 3D projection and visualization. It offers two primary types of projections: geometry edge projection and silhouette projection. Each projection type is equipped with a set of configurable metrics and controls, allowing you to fine-tune and optimize your 3D projections for various computer graphics tasks.
 
-Type 1: Geometry Edge Projection Metrics
+### Type 1: Geometry Edge Projection Metrics
 
 Display Model Color:
 
@@ -28,7 +28,8 @@ UseWorker:
 
 Description: The "UseWorker" control enables the use of worker threads during the projection process. Worker threads run in the background and can significantly enhance the performance of the projection, making it faster and more efficient.
 Use Case: Particularly beneficial when dealing with complex or computationally intensive 3D models, as it allows the projection to take advantage of multi-core processors for faster execution.
-Type 2: Silhouette Projection Metrics
+
+### Type 2: Silhouette Projection Metrics
 
 Display Model:
 
