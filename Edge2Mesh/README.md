@@ -9,8 +9,11 @@ Welcome to Edge2Mesh, my flagship computer graphics project developed in JavaScr
 
 #### Geometry Edge Projection in action(video implementation):
 
-1. Intoduction-
-https://github.com/Malav5372/Edge2Mesh/assets/144440737/f620bf1a-b228-4ae6-b64d-1c271ddffaef
+
+
+
+https://github.com/Malav5372/Edge2Mesh/assets/144440737/e8b052c0-a9c2-4baf-80f4-37ab23848838
+
 
 
 
