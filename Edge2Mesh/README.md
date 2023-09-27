@@ -2,13 +2,13 @@
 
 ![](./docs/banner.png)
 
-Edge projection based on [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh/) to extract visible projected lines along the y-axis into flattened line segments for scalable 2d rendering. Additonally includes a silhouette mesh generator based on [clipper2-js](https://www.npmjs.com/package/clipper2-js) to merge flattened triangles.
+Edge projection to extract visible projected lines along the y-axis into flattened line segments for scalable 2d rendering. Additonally includes a silhouette mesh generator b to merge flattened triangles.
 
 # Examples
 
-[Geometry edge projection](https://gkjohnson.github.io/three-edge-projection/example/bundle/edgeProjection.html)
+[Geometry edge projection](https://Malav5372.github.io/Edge2Mesh/example/bundle/edgeProjection.html)
 
-[Silhouette projection](https://gkjohnson.github.io/three-edge-projection/example/bundle/silhouetteProjection.html)
+[Silhouette projection](https://Malav5372.github.io/Edge2Mesh/example/bundle/silhouetteProjection.html)
 
 # Use
 
