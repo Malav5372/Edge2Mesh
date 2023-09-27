@@ -1,12 +1,23 @@
 # Edge2Mesh: Advanced 2D Line Projection and Silhouette mesh Generator
-
-![](./docs/banner.png)
+ 
 
 ## Introduction:
 
 Welcome to Edge2Mesh, my flagship computer graphics project developed in JavaScript. Edge2Mesh is a versatile tool designed for 3D projection and visualization. It offers two primary types of projections: geometry edge projection and silhouette projection. Each projection type is equipped with a set of configurable metrics and controls, allowing you to fine-tune and optimize your 3D projections for various computer graphics tasks.
 
 ### Type 1: Geometry Edge Projection Metrics
+
+#### Geometry Edge Projection in action(video implementation):
+
+1. Intoduction-
+https://github.com/Malav5372/Edge2Mesh/assets/144440737/f620bf1a-b228-4ae6-b64d-1c271ddffaef
+
+
+
+
+
+
+
 
 #### Display Model Color:
 
