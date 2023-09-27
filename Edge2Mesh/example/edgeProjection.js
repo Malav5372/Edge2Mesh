@@ -86,7 +86,7 @@ async function init() {
 
 	const gltf = await new GLTFLoader()
 		.setMeshoptDecoder( MeshoptDecoder )
-		.loadAsync( 'https://raw.githubusercontent.com/gkjohnson/3d-demo-data/main/models/nasa-m2020/Perseverance.glb' );
+		.loadAsync( 'https://raw.githubusercontent.com/Malav5372/3d-demo-data/main/models/nasa-m2020/Perseverance.glb' );
 	model = gltf.scene;
 
 	const whiteMaterial = new MeshStandardMaterial( {
