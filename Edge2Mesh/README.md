@@ -1,19 +1,9 @@
 # Edge2Mesh: Advanced 2D Line Projection and Silhouette mesh Generator for 3D objects
 
 <p align="center">
-<img src="example/1.gif" align="left" width="300">
+<img src="example/1.gif" align="left" width="200">
 <img src="example/2.gif" align="right" width="300">
 </p>
-
-
-
-
-
-
-
-
-
-
 
 ## Introduction:
 
