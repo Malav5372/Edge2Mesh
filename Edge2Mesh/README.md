@@ -1,4 +1,4 @@
-# Edge2Mesh
+# Edge2Mesh: Advanced 2D Line Projection and Silhouette mesh Generator
 
 ![](./docs/banner.png)
 
