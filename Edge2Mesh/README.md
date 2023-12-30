@@ -23,7 +23,7 @@ https://github.com/Malav5372/Edge2Mesh/assets/144440737/ba1eb24a-dc07-40cc-91fb-
 https://github.com/Malav5372/Edge2Mesh/assets/144440737/d20fbb21-b325-485e-aaae-ea9c763c146a
 
 4. Part-4 : incorporation of useworker control to take advantage of multi-core processors for faster execution,
-Merge Geometry Time went from 38.60 ms to 35.60 ms and Edge Trimming from 2967.50 ms to 2551.30 ms Respectively
+MergeGeometry Time went from 38.60 ms to 35.60 ms(MergeGeometry time refers to the duration it takes to combine various geometric elements or objects in a 3D rendering context, ultimately contributing to the creation of a 2D projection) and EdgeTrimming from 2967.50 ms to 2551.30 ms Respectively.
 
 https://github.com/Malav5372/Edge2Mesh/assets/144440737/10d9e754-1dd6-430e-82b3-50b3546121ca
 
