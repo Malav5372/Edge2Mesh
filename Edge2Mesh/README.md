@@ -14,7 +14,7 @@ Welcome to Edge2Mesh, my flagship computer graphics project developed in JavaScr
 
 https://github.com/Malav5372/Edge2Mesh/assets/144440737/e8b052c0-a9c2-4baf-80f4-37ab23848838
 
-2. Part-2 : Exploring thr projection of the 3D model at different Rotations
+2. Part-2 : Exploring the projection of the 3D model at different Rotations
 
 https://github.com/Malav5372/Edge2Mesh/assets/144440737/ba1eb24a-dc07-40cc-91fb-073ff76ca812
 
